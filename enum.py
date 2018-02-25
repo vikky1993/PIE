@@ -1,4 +1,4 @@
-# Use the enumerate function in loops instead of creating an “index” variable
+# Use the enumerate function in loops instead of creating an "index" variable
 ##Harmful Way
 my_container = ['Vikky', 'Keer', 'VIKS']
 index = 0
