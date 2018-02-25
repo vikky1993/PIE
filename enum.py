@@ -9,6 +9,7 @@ for element in my_container:
 
 
 ##Idiomatic Way
+# enumerate function to get index without explicitly declaring a variable
 
 my_container = ['Vikky', 'Keer', 'VIKS']
 for index, element in enumerate(my_container):
