@@ -48,4 +48,4 @@ print cal
 ##Trick -10
 
 a = ["please", "like"]
-
+print " ".join(a)
